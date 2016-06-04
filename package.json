@@ -1,0 +1,19 @@
+{
+  "name": "geometryapi",
+  "version": "0.1.0",
+  "description": "Geometry API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kshowalter/____.git"
+  },
+  "keywords": [
+    "geometry",
+    "API"
+  ],
+  "author": "Keith Showalter",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kshowalter/____/issues"
+  },
+  "dependencies": {}
+}
